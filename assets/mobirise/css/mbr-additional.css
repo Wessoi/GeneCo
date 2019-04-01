@@ -1800,8 +1800,19 @@ body {
 .cid-rm3zN5xFLj .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rm3zRiZuOx {
+.cid-rmjzpSFlAY {
   background-image: url("../../../assets/images/wp3495095-1920x1080.png");
+}
+.cid-rmjzpSFlAY .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rmjzpSFlAY .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-rmjzpSFlAY .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-rm3zYm7BQ4 {
   padding-top: 60px;
@@ -1810,6 +1821,68 @@ body {
 }
 .cid-rm3zYm7BQ4 .mbr-text,
 .cid-rm3zYm7BQ4 blockquote {
+  color: #767676;
+}
+.cid-rmlDzdUAzQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rmlDzdUAzQ P {
+  color: #767676;
+}
+.cid-rmjzjX1apT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rmjzjX1apT .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rmjzjX1apT .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rmjzjX1apT .mbr-text {
+  color: #767676;
+}
+.cid-rmlCjfRRHS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rmlCjfRRHS .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rmlCjfRRHS .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rmlCjfRRHS .mbr-text {
+  color: #767676;
+}
+.cid-rmlD10KFFB {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rmlD10KFFB .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rmlD10KFFB .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rmlD10KFFB .mbr-text {
   color: #767676;
 }
 .cid-rm3Aa9ELjL {
@@ -2223,6 +2296,14 @@ body {
 .cid-rm3zN5xFLj .nav-link:hover,
 .cid-rm3zN5xFLj .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rmlyXzjcjb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmlyXzjcjb .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rm3Aa9ELjL {
   padding-top: 30px;
